@@ -167,7 +167,7 @@ function M.get(config, theme)
 
     ['Type'] = { fg = theme.sintax.type },
     ['StorageClass'] = { fg = theme.sintax.type },
-    ['Structure'] = { fg = theme.sintax.type },
+    ['Structure'] = { fg = theme.sintax.keyword },
     ['Typedef'] = { fg = theme.sintax.type },
 
     -- ['Special'] = {},
